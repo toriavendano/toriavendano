@@ -2,7 +2,8 @@
 
 - My name is Vitoria, but you can call me Tori 🧙‍♀️
 - 24 years existing in this world 🌎
-- I'm currently working as an UX Writer 👩‍💻
-- And I'm also learning JavaScript 🌹
-- I love post punk and classic literature 💖
-- And I'm here to learn 😊
+- Associate degree in Foreign Trade 🎓
+- Currently working as an UX Writer 👩‍💻
+- Learning JavaScript 🌹
+- Love post punk and classic literature 💖
+- Here to learn 😊
