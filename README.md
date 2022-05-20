@@ -1,4 +1,4 @@
-### Hello, human 👋
+### Hello, humanZ 👋
 
 - My name is Vitoria, but you can call me Tori 🧙‍♀️
 - 24 years existing in this world 🌎
