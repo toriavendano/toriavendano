@@ -13,4 +13,4 @@
 
 ## You can find me here:
   
-[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' height='25'>](https://criarmeulink.com.br/u/1655249802) [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='25'>](https://www.linkedin.com/in/vitoria-avendano/) [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='25'>](https://medium.com/@vitoria.avendano)  
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' height='25'>](mailto:vitoria.avendano@gmail.com) [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='25'>](https://www.linkedin.com/in/vitoria-avendano/) [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='25'>](https://medium.com/@vitoria.avendano)  
