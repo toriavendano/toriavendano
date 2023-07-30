@@ -1,7 +1,7 @@
 # Hi, human 👽
 
 <p>You can call me <b>Tori</b>. I'm 25 and I'm from Brazil.</p>
-<p></p>I'm just another human being and I wanna have some fun around here. At this point, I'm attending a Bachelor of Fine Arts in Film and I'm studying some UI Design patterns and Front End Development.</p>
+<p></p>I'm just another human being and I wanna have some fun around here. At this point, I'm attending a Bachelor of Fine Arts in Film and I'm studying some UI Design patterns and Front End Development. I really enjoy creative coding and I'm willing to learn it!</p>
 <p>This profile is my diary. I want to know how much I've been evolving with my studies. If you are interested in any of this, just follow me and we can have a nice chat.</p>
 <p>Thanks for reading!</p>
  
