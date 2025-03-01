@@ -1,6 +1,6 @@
 # Hi, human 👽
 
-<p>You can call me <b>Tori</b>. I'm 25 and I'm from Brazil.</p>
+<p>You can call me <b>Tori</b>. I'm 27 and I'm from Brazil.</p>
 <p></p>I'm just another human being around here. At this point, I'm attending a Bachelor of Fine Arts in Film and I'm studying Front End Development for fun.</p>
 <p>This profile is my diary. I want to know how much I've been evolving with my studies. If you are interested in any of this, just follow me and we can have a nice chat.</p>
 <p>Thanks for reading!</p>
